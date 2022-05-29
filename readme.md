@@ -56,8 +56,10 @@ Marked means built and connected
 - [ ] [Oled Display](https://www.marotronics.de/096-OLED-Display-Blau-Gelb-I2C-SPI-128x64-SSD1106-fuer-Arduino-Raspberry-Pi)
 - [ ] [Neo 6M GPS Module](https://www.marotronics.de/NEO-6M-GPS-Modul-GY-GPS6MV2-NEO-6M-Flight-Controller-zb-fuer-Arduino)
 
-Hardware whishlist:
+### Hardware whishlist:
 - [ ] [RFID Reader](https://www.marotronics.de/RFID-Kit-RC522-Mifare-Transponder-Modul-Writer-Reader-fuer-Arduino-Raspberry-1356Mhz)
+- [ ] [Brushless Engines](https://wiki.ardumower.de/index.php?title=Brushless_Drive)
+- [ ] Garage automated door
 
 ## Current State
 
