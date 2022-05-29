@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "ms-vscode.cpptools",
+        "vsciot-vscode.vscode-arduino",
+        "owen-flood.arduino-snippets-plus",
+        "ms-vscode.cpptools-extension-pack"
+    ]
+}
