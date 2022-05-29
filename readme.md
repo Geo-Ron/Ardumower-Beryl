@@ -9,6 +9,12 @@ Beryl could be the daughter firmware of Azurit and AzuritBer.
 - Try to create a functional firmware for the Ardumower that has all the best of both firmwares.
 - If I succeed in the above objectives, give the firmware back to the Ardumower community and work together on improving it
 
+To sum this up:
+- Learn
+- Try
+- Improve
+- Repeat the above ;-)
+
 ## High Level Firmware Objective
 
 Create an Ardumower firmware that:
