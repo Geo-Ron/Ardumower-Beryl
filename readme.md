@@ -25,14 +25,16 @@ Create an Ardumower firmware that:
   - [ ] [DAMN](https://en.wikipedia.org/wiki/Distributed_architecture_for_mobile_navigation)
 - [ ] Honours perimeter wire boundaries
 - [ ] Can mow in lanes
+- [ ] Reacts to taller grass situations nicely
 - [ ] Tries to avoid an object, and continue it's path
 - [ ] Moves in a smooth way
   - [ ] Makes full use of the odometry and sensor capabilities
 - [ ] Can get herself out if a miserable situation most of the time
 - [ ] Tries to use the shortest path to the charging station as possible
+- [ ] Buzzer sounds are recognizable and fun to hear
 - [ ] Has App integration (the Ardumower app)
 - [ ] Has HomeAssistant integration
-  - [ ] To not start mowing if rain is coming
+  - [ ] To not start mowing if weather conditions are not nice
 
 ## My Hardware Platform
 In June 2021 I bought a used (and mistreated) Ardumower.
