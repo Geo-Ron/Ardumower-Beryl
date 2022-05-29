@@ -30,7 +30,7 @@
 #include "adcman.h"
 #include "imu.h"
 #include "perimeter.h"
-#include "config.h"
+#include "Configuration.h"
 
 RemoteControl::RemoteControl() {
   pfodCmdComplete = false;
