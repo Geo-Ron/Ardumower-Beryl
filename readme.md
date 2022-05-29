@@ -18,7 +18,7 @@ To sum this up:
 ## High Level Firmware Objective
 
 Create an Ardumower firmware that:
-- [ ] Is modular built
+- [ ] Is modular built, to accomodate multiple hardware platforms
 - [ ] Everything is built on the service model
 - [ ] Is based on a more robust architecture
   - [ ] [Subsumption](https://en.wikipedia.org/wiki/Subsumption_architecture)
