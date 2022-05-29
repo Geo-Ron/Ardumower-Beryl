@@ -27,7 +27,7 @@ Create an Ardumower firmware that:
 - [ ] Can mow in lanes
 - [ ] Tries to avoid an object, and continue it's path
 - [ ] Moves in a smooth way
-  - [ ] Makes full use of the odometry capabilities
+  - [ ] Makes full use of the odometry and sensor capabilities
 - [ ] Tries to use the shortest path to the charging station as possible
 - [ ] Has App integration (the Ardumower app)
 - [ ] Has HomeAssistant integration
