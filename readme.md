@@ -1,14 +1,21 @@
 # Beryl
 
-Beryl is the daughter firmware of Azurit and AzuritBer
+Beryl could be the daughter firmware of Azurit and AzuritBer.
+
+## My Objectives
+- Learn the software aspects and (hardware) components of the Ardumower platform and C++
+- Learn to build and improve functional software for the Ardumower
+- Learn how a differential drive robot lawn mower can and should function in the real world that is 'my garden'
+- Try to create a functional firmware for the Ardumower that has all the best of both firmwares.
+- If I succeed in the above objectives, give the firmware back to the Ardumower community and work together on improving it
 
 ## High Level Firmware Objective
 
 Create an Ardumower firmware that:
 - [ ] Is modular built
 - [ ] Everything is built on the service model
-- [ ] Is based of a more robust architecture
-  - [ ] [Sumbsumption](https://en.wikipedia.org/wiki/Subsumption_architecture)
+- [ ] Is based on a more robust architecture
+  - [ ] [Subsumption](https://en.wikipedia.org/wiki/Subsumption_architecture)
   - [ ] [DAMN](https://en.wikipedia.org/wiki/Distributed_architecture_for_mobile_navigation)
 - [ ] Honours perimeter wire boundaries
 - [ ] Can mow in lanes
