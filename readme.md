@@ -52,6 +52,7 @@ Marked means built and connected
 - [x] [3x HC-SR04 Ultrasonic module](https://www.marotronics.de/HC-SR04-Ultraschallsensor-Ultrasonic-Ranging-Module)
 - [x] [MPU6050/GY-521 IMU](https://www.marotronics.de/3-Achsen-Gy-521-Gyroskop-Accelerometer-MPU-6050-Raspberry-Pi-Arduino)
 - [x] [LM2596S Current regulator](https://www.marotronics.de/DC-DC-Spannungsregler-LM2596S-Step-Down-Regler-einstellbar)
+- [x] [RTC DS1307](https://www.marotronics.de/Real-Time-Clock-Module-I2C-RTC-DS1307-bijv-Voor-Arduino)
 - [x] [Rain sensor](https://www.marotronics.de/Regensensor-Modul-YL-38-fuer-Arduino-Raspberry-PI-Regentropfen-Sensor-Naessesensor)
 - [ ] [Oled Display](https://www.marotronics.de/096-OLED-Display-Blau-Gelb-I2C-SPI-128x64-SSD1106-fuer-Arduino-Raspberry-Pi)
 - [ ] [Neo 6M GPS Module](https://www.marotronics.de/NEO-6M-GPS-Modul-GY-GPS6MV2-NEO-6M-Flight-Controller-zb-fuer-Arduino)
